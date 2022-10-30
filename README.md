@@ -8,3 +8,7 @@ Or maybe not, lol.
 ## Subheader
 
 Changes are made yeah
+
+## Local Development
+
+1. Open Index.html in your browser.
